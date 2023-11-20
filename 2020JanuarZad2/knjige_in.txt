@@ -1,0 +1,20 @@
+"Thus Spoke Zarathustra"
+Friedrich Nietzsche
+350
+1000000
+"The Great Gatsby"
+F. Scott Fitzgerald
+256
+5000000
+"Pride And Prejudice"
+Jane Austen
+480
+2500000
+"The Raven & Other Poems"
+Edgar Allan Poe
+304
+750000
+"Animal Farm"
+George Orwell
+160
+10000000

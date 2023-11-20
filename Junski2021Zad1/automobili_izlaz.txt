@@ -1,0 +1,15 @@
+Naziv: RENAULT
+Registracija: PI-035-CH
+Maksimalna brzina: 120
+Potrosnja: 30
+Maksimalni broj putnika : 5
+Naziv: AUDI
+Registracija: PI-066-MW
+Maksimalna brzina: 180
+Potrosnja: 45
+Maksimalni broj putnika : 6
+Naziv: RENAULT
+Registracija: NI-015-ZA
+Maksimalna brzina: 100
+Potrosnja: 20
+Maksimalni broj putnika : 4

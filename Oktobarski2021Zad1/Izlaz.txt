@@ -1,0 +1,12 @@
+5
+2
+0
+BMW
+BG-1024-AC
+160
+0.9
+6
+Renault Scenic 1.6 Restyling
+PI-035-HK
+130
+0.7

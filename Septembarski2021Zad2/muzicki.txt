@@ -1,0 +1,48 @@
+
+		Festival pre otkazivanja muzickih nastupa:
+Germany Bloodfest
+Naziv: Iron Maiden 7th son 30th year anniversary tour
+Broj izvodjaca: 7
+Duzina nastupa(min): 81
+Koeficijent popularnosti: 8.323
+Naziv: Judas Priest 2022 world tour
+Broj izvodjaca: 8
+Duzina nastupa(min): 95
+Koeficijent popularnosti: 1.923
+Naziv: YJM Parabellum world tour
+Broj izvodjaca: 9
+Duzina nastupa(min): 71
+Koeficijent popularnosti: 2.723
+Naziv: Whitesnake farewell world tour
+Broj izvodjaca: 8
+Duzina nastupa(min): 112
+Koeficijent popularnosti: 7.023
+Naziv: Stratovarius 2022 world tour
+Broj izvodjaca: 5
+Duzina nastupa(min): 115
+Koeficijent popularnosti: 10.023
+Naziv: Tool all American tour 2022
+Broj izvodjaca: 3
+Duzina nastupa(min): 111
+Koeficijent popularnosti: 0.423
+506.059
+
+		Festival nakon otkazivanja muzickih nastupa:
+Germany Bloodfest
+Naziv: Iron Maiden 7th son 30th year anniversary tour
+Broj izvodjaca: 7
+Duzina nastupa(min): 81
+Koeficijent popularnosti: 8.323
+Naziv: Judas Priest 2022 world tour
+Broj izvodjaca: 8
+Duzina nastupa(min): 95
+Koeficijent popularnosti: 1.923
+Naziv: YJM Parabellum world tour
+Broj izvodjaca: 9
+Duzina nastupa(min): 71
+Koeficijent popularnosti: 2.723
+Naziv: Whitesnake farewell world tour
+Broj izvodjaca: 8
+Duzina nastupa(min): 112
+Koeficijent popularnosti: 7.023
+459.189

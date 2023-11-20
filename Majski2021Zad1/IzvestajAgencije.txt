@@ -1,0 +1,33 @@
+
+		Podaci o turistickoj organizaciji
+
+Podaci o putovanju:
+ - Naziv destinacije - Nei Pori
+ - Broj nocenja - 10
+ - Cena nocenja - 50
+ - Zanimljivost putovanja - 36
+
+Podaci o putovanju:
+ - Naziv destinacije - Nei Pori
+ - Broj nocenja - 10
+ - Cena nocenja - 50
+ - Zanimljivost putovanja - 36
+
+Podaci o putovanju:
+ - Naziv destinacije - Nei Pori
+ - Broj nocenja - 10
+ - Cena nocenja - 50
+ - Zanimljivost putovanja - 36
+
+Podaci o putovanju:
+ - Naziv destinacije - Venezia
+ - Broj nocenja - 1
+ - Cena nocenja - 80
+ - Zanimljivost putovanja - 20
+
+Podaci o putovanju:
+ - Naziv destinacije - Venezia
+ - Broj nocenja - 1
+ - Cena nocenja - 80
+ - Zanimljivost putovanja - 20
+

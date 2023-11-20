@@ -1,0 +1,48 @@
+
+Broj zakazanih putovanja: 5
+
+		Lista zakazanih putovanja
+
+Naziv putovanja: Venecija
+Broj nocenja: 1
+Cena jednog nocenja: 39.99
+Cena putovanja: 119.99
+Zanimljivost putovanja: 13
+Broj turistickih atrakcija: 13
+Cena prevoza putovanja: 80
+
+Naziv putovanja: Rovinj
+Broj nocenja: 7
+Cena jednog nocenja: 19.99
+Cena putovanja: 139.93
+Zanimljivost putovanja: 0.8
+Prosecna temperatura vode leti: 27.6
+Broj plaza: 3
+Naziv mora: Jadransko
+
+Naziv putovanja: Prag
+Broj nocenja: 2
+Cena jednog nocenja: 89.99
+Cena putovanja: 279.97
+Zanimljivost putovanja: 29
+Broj turistickih atrakcija: 29
+Cena prevoza putovanja: 99.99
+
+Naziv putovanja: Odesa
+Broj nocenja: 10
+Cena jednog nocenja: 39.99
+Cena putovanja: 399.9
+Zanimljivost putovanja: 0.6
+Prosecna temperatura vode leti: 22.3
+Broj plaza: 4
+Naziv mora: Crno more
+
+Naziv putovanja: Nei Pori
+Broj nocenja: 20
+Cena jednog nocenja: 29.99
+Cena putovanja: 599.8
+Zanimljivost putovanja: 0.8
+Prosecna temperatura vode leti: 28.2
+Broj plaza: 7
+Naziv mora: Egejsko
+

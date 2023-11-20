@@ -1,0 +1,24 @@
+
+MaxVrednost:
+Boja dresa: R = 0 G = 0 B = 255
+Lista sponzora:
+VodaVoda
+AquaViva
+Rosa
+Nivea
+Head&Shoulders
+Budzet tima: 340000
+Broj sezonskih ulaznica: 100000
+
+
+MinVrednost:
+Boja dresa: R = 0 G = 255 B = 0
+Lista sponzora:
+Mitros Music
+Horisen
+Budzet tima: 175000
+Broj sezonskih ulaznica: 25000
+
+
+AvgVrednost:
+1.8125e+11

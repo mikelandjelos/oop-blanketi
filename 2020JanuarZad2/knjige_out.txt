@@ -1,0 +1,16 @@
+Naslov: "Thus Spoke Zarathustra"
+Autor: Friedrich Nietzsche
+Broj stranica: 350
+Tiraz: 1000000
+Naslov: "The Great Gatsby"
+Autor: F. Scott Fitzgerald
+Broj stranica: 256
+Tiraz: 5000000
+Naslov: "Pride And Prejudice"
+Autor: Jane Austen
+Broj stranica: 480
+Tiraz: 2500000
+Naslov: "The Raven & Other Poems"
+Autor: Edgar Allan Poe
+Broj stranica: 304
+Tiraz: 750000

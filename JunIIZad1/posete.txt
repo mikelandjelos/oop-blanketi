@@ -1,0 +1,43 @@
+Broj posetilaca: 6
+
+		Posetioci:
+
+Ime i prezime: Geralt iz Rivije
+Termin: -2
+Korisnicko ime: gers
+Aktivan [h]: 6
+Broj komentara: 17
+Koeficijent zainteresovanosti: 102
+Placeno za ulaz: 600
+Ime i prezime: Peera Petrovic
+Termin: -1
+Korisnicko ime: blabla
+Aktivan [h]: 6
+Broj komentara: 17
+Koeficijent zainteresovanosti: 102
+Placeno za ulaz: 600
+Ime i prezime: Mihajlo Madic
+Termin: 1
+Radni status: nezaposlen
+Broj tacnih odgovora: 10
+Koeficijent zainteresovanosti: 10
+Placeno za ulaz: -43500
+Ime i prezime: Pera Peric
+Termin: 2
+Radni status: zaposlen
+Broj tacnih odgovora: 12
+Koeficijent zainteresovanosti: 12
+Placeno za ulaz: -10800
+Ime i prezime: Mare Maric
+Termin: 3
+Radni status: zaposlen
+Broj tacnih odgovora: 15
+Koeficijent zainteresovanosti: 15
+Placeno za ulaz: -32300
+Ime i prezime: Mihajlo Madic
+Termin: 5
+Korisnicko ime: nick1
+Aktivan [h]: 6
+Broj komentara: 17
+Koeficijent zainteresovanosti: 102
+Placeno za ulaz: 600

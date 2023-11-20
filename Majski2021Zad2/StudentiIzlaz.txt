@@ -1,0 +1,21 @@
+5
+Ime i prezime: Zeljko Vasic
+Indeks: 18098
+Prosecna ocena iz prosle godine: 20
+
+Ime i prezime: Djordje Glisic
+Indeks: 18120
+Prosecna ocena iz prosle godine: 20
+
+Ime i prezime: Predrag Zivkovic
+Indeks: 18165
+Prosecna ocena iz prosle godine: 20
+
+Ime i prezime: Mihajlo Madic
+Indeks: 18234
+Prosecna ocena iz prosle godine: 10
+
+Ime i prezime: Petar Mancic
+Indeks: 18238
+Prosecna ocena iz prosle godine: 20
+
